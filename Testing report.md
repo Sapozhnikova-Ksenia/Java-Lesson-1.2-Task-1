@@ -1,23 +1,24 @@
-##Отчет о тестировании приложения Money Transfer
+#Отчет о тестировании приложения Money Transfer
 
-####В ходе тестирования установлен результат операции приложения при пополнении баланса (счета) клиента
+##В ходе тестирования установлен результат операции приложения при пополнении баланса (счета) клиента
 
 В период времени с 12.06.2021 18 часов 55 минут по 12.06.2021 19 часов 41 минуту был составлен тест-кейс и на его основе произведено Smoke-тестирование (функциональное тестирование приложения Money Transfer)
 
 На тестирование затрачено: 00 часов 46 минут
 
 в результате тестирования выявлен дефект:
-https://github.com/Sapozhnikova-Ksenia/Java-Lesson-1.2-Task-1/issues/1
+* (https://github.com/Sapozhnikova-Ksenia/Java-Lesson-1.2-Task-1/issues/1) 
 
-####В процессе тестирования в качестве артефакта был создан, задокументирован и использован тест-кейс Test-case.md, который расположен в репозитории JAVA lesson 1.2 task 1
+##Описание процесса тестирования
 
-####В качестве тестовых данных использовались следующие данные:
-https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В процессе тестирования использовались следующие артефакты:
+* [Test-case.md] (https://github.com/Sapozhnikova-Ksenia/Java-Lesson-1.2-Task-1/blob/master/Test-case.md)
 
-####Тестирование производилось в следующем окружении:
-1. ноутбук Asus Vivo Book,
-2. веб-браузер Google Chrome Версия 90.0.4430.212 (Официальная сборка) (64 бит), 
-3. git версия 2.31.1.windows.1, 
-4. Java - openjdk версия "11.0.11" 2021-04-20, 
-5. IntelliJ IDEA Community Edition 2021.1.2, 
-6. https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java 
+В качестве тестовых данных использовались следующие данные:
+* (https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+* (https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
+
+Тестирование производилось в следующем окружении:
+* Java - openjdk версия "11.0.11" 2021-04-20, 
+* IntelliJ IDEA Community Edition 2021.1.2, 
+* OC Windows 10 64-разрядная, х64
